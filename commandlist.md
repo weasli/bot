@@ -1,8 +1,5 @@
-######For more information and how to setup your own NadekoBot, go to: <http://github.com/Kwoth/NadekoBot/wiki>
-######You can donate on patreon: <https://patreon.com/nadekobot>
-######or paypal: `nadekodiscordbot@gmail.com`
-
-#NadekoBot List Of Commands  
+#Source : https://github.com/Kwoth/NadekoBot
+#weasel bot List Of Commands  
 ### Help  
 Command and aliases |  Description |  Usage
 ----------------|--------------|-------
